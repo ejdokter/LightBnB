@@ -11,10 +11,10 @@ A project to help learn how to implement SQL into javascript. LightBnB is a play
 ## Final Project
 
 ### Home Page
-!["Screenshot of Home Page"]()
+!["Screenshot of Home Page"](https://github.com/ejdokter/LightBnB/blob/master/docs/home-page.png?raw=true)
 
 ### Logged In Reservations
-!["Screenshot of reservations"]()
+!["Screenshot of reservations"](https://github.com/ejdokter/LightBnB/blob/master/docs/reservations-page.png?raw=true)
 
 ## Dependencies
 
